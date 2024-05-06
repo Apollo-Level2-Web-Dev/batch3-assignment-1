@@ -156,8 +156,10 @@ Write two impactful blog posts covering the following topics:
 </br>
 </br>
 
-### Instructions:
+## Private Repogitory
+[https://classroom.github.com/a/xLyOULhz](https://classroom.github.com/a/xLyOULhz)
 
+### Instructions:
 * Solve the problems in a separate file. Name the file starting with "problem-" followed by the problem number.
    (For example: problem-1.ts)
 * Write the blogs in separate .md files. Name them starting with "blog-" followed by the blog number.
