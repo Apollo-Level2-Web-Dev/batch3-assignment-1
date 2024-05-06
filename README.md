@@ -12,7 +12,7 @@ The assignment tasks cover a range of topics:
 4. *Type Guard and Error Handling:* Creating a function to log strings and handle different data types using type guards.
 5. *Class Implementation:* Designing a class to represent car information and displaying relevant details.
 
-Each problem is accompanied by sample input and output, showcasing how TypeScript can be used to solve practical programming challenges effectively. Feel free to refer to these examples for learning and practicing TypeScript programming skills. If you have any questions or need further clarification on any problem, please let us know in our facebook group.
+Each problem is accompanied by sample input and output, showcasing how TypeScript can be used to solve practical programming challenges effectively.If you have any questions or need further clarification on any problem, please let us know in our facebook group.
 
 ## Problem 1:
 
