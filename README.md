@@ -78,16 +78,16 @@ You are given an object called “student”  representing a student's informati
 ```tsx
 // Sample Input:
 const student1: Student = {     
-			name: "Bob",     
-			age: 17,     
-			grades: [75, 80, 82, 88, 90] 
-		};
+			    name: "Bob",     
+			    age: 17,     
+			    grades: [75, 80, 82, 88, 90]
+                       };
 
 
 const averageGradeForBob = calculateAverageGrade(student1);
 
 // Sample Output:
-86.25
+83
 ```
 
 ## Problem 6:
